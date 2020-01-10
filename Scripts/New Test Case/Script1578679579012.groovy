@@ -18,6 +18,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+//
+
 WebUI.navigateToUrl('https://demo.tutorialzine.com/2009/09/simple-ajax-website-jquery/demo.html')
 
 WebUI.click(findTestObject('Object Repository/Page_A simple AJAX website with jQuery/a_Page 1'))
